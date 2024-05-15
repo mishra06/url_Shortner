@@ -1,0 +1,17 @@
+{
+  "name": "url_shorter",
+  "version": "1.0.0",
+  "description": "Using this you can short the url from long character to minimul character",
+  "main": "index.js",
+  "type" :"module",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vibhakar mishra",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nanoid": "^5.0.7"
+  }
+}
